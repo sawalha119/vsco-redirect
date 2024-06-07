@@ -10,12 +10,12 @@
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
-        gtag('config', 'G-7NBQW52TPC');
+        gtag('config', G-7NBQW52TPC);
     </script>
     <!-- Redirect Script -->
     <script>
         setTimeout(function(){
-            window.location.href = 'https://vsco.co/sawalha119';
+            window.location.href = https://vsco.co/sawalha119;
         }, 3000); // 3 second delay
     </script>
 </head>
