@@ -5,12 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Redirecting...</title>
     <!-- Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=YOUR_TRACKING_ID"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-7NBQW52TPC"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
-        gtag('config', '8235921031');
+        gtag('config', 'G-7NBQW52TPC');
     </script>
     <!-- Redirect Script -->
     <script>
