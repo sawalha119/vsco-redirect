@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirecting...</title>
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=YOUR_TRACKING_ID"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'YOUR_TRACKING_ID');
+    </script>
+    <!-- Redirect Script -->
+    <script>
+        setTimeout(function(){
+            window.location.href = 'https://vsco.co/sawalha119';
+        }, 3000); // 3 second delay
+    </script>
+</head>
+<body>
+    <p>Redirecting you to my VSCO page...</p>
+</body>
+</html>
